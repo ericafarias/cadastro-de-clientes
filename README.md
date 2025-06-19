@@ -1,8 +1,8 @@
-#📋 Cadastro de Clientes
+# 📋 Cadastro de Clientes
 Aplicação web completa para cadastro e gerenciamento de clientes, com interface moderna e integração entre frontend e backend. Desenvolvida com foco em produtividade, organização e boas práticas de desenvolvimento.
 
-##🚀 Tecnologias Utilizadas
-###💻 Frontend
+## 🚀 Tecnologias Utilizadas
+### 💻 Frontend
 - ReactJS – Biblioteca para construção de interfaces interativas.
 
 - TypeScript – Superset do JavaScript com tipagem estática.
@@ -11,14 +11,14 @@ Aplicação web completa para cadastro e gerenciamento de clientes, com interfac
 
 - shadcn/ui – Conjunto de componentes acessíveis e modernos baseados em Tailwind CSS.
 
-###🔧 Backend
+### 🔧 Backend
 - Java 17 – Linguagem robusta e orientada a objetos.
 
 - Spring Boot – Framework para construção de APIs REST de forma rápida e estruturada.
 
 - Banco de Dados H2 – Banco leve em memória, ideal para desenvolvimento e testes locais.
 
-##🧩 Funcionalidades
+## 🧩 Funcionalidades
 ✅ Cadastro de clientes com nome, e-mail, endereço e outros dados
 
 ✅ Listagem de todos os clientes
@@ -29,8 +29,8 @@ Aplicação web completa para cadastro e gerenciamento de clientes, com interfac
 
 ✅ Backend com API REST e persistência de dados com H2
 
-##⚙️ Como Executar o Projeto
-###Backend (Spring Boot + H2)
+## ⚙️ Como Executar o Projeto
+### Backend (Spring Boot + H2)
 
 1. Navegue até a pasta cadastro-api
 
@@ -38,7 +38,7 @@ Aplicação web completa para cadastro e gerenciamento de clientes, com interfac
 
 /src/main/java/cadastroApplication.java: run
 
-###Frontend (React)
+### Frontend (React)
 
 1. Navegue até a pasta frontend
 
